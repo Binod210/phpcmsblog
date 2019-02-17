@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.navbar-nav li{
+	font-weight: bold;
+	font-size: 18px;
+	color: aliceblue;
+	
+}
+.posts{
+	box-shadow:  0 4px 8px 0 rgba(20, 45, 240,0.7);
+	transition: 0.3s;
+	margin-bottom: 10px;
+}
+

@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#SideBar{
+	font-size: 20px;
+}
+#SideBar a:hover{
+	background-color: #4271B9;
+	color: #201A72;
+	font-weight: bold;
+	
+}
+
+#SideBar .active a{
+	color: antiquewhite;
+}
+#formstyle{
+	margin-top: 20px;
+	margin-right: 30px;
+}
+.postbox{
+	
+	box-shadow: 0 4px 8px 0 rgba(50,84,200,0.5);
+	transition: 0.3s;
+	padding: 10px;
+	margin: 10px 5px;
+}
+
+
+
